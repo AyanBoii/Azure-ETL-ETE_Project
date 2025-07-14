@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Databricks-specific files
+.databricks/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
